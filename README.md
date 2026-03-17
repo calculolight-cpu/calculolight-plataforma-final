@@ -1,1 +1,3 @@
-# Cálculo Light — Instalação Definitiva
+# Cálculo Light — Pacote Final Correto
+
+Login demo: master@calculolight.com / 123456
